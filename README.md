@@ -1,5 +1,3 @@
-Sure, here's a more detailed breakdown of each topic:
-
 1. **Introduction to Web Development**
     * What is web development: Explanation of the process of building and maintaining websites.
     * Frontend vs Backend: Discussion on the difference between the two, and their roles in web development.
